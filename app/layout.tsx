@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "TarreDev | Netflix Clone",
-  description: "Creando un clone de Netflix con TarreDev",
+  title: "IsraDev | Netflix Clone",
+  description: "Creando un clone de Netflix con IsraDev",
 };
 
 export default function RootLayout({

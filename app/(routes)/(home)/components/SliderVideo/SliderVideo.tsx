@@ -13,13 +13,13 @@ export function SliderVideo() {
         src="/videos/video-trailer-test.mp4"
       />
       <div
-        className="flex flex-col justify-end absolute w-full md:w-[36%] px-4 
+        className="flex flex-col justify-end absolute w-full md:w-[36%] px-4
         md:px-0 md:left-[4%] z-20 top-0 -bottom-7 md:bottom-[36%]
       "
       >
         <div className="pt-24 md:pt-0">
           <h2 className="text-2xl md:text-5xl lg:text-8xl font-bold drop-shadow-xl">
-            TarreDev
+            IsraDev
           </h2>
           <p className="max-w-md mt-2 text-xs md:text-base">
             Aprende a crear desde cero un clon de Netflix con todas sus
@@ -41,7 +41,7 @@ export function SliderVideo() {
       </div>
 
       <div
-        className="bg-transparent bg-no-repeat bg-contain w-full opacity-100 top-auto h-[14.7vw] 
+        className="bg-transparent bg-no-repeat bg-contain w-full opacity-100 top-auto h-[14.7vw]
       -bottom-16 absolute bg-gradient-video
       "
       />

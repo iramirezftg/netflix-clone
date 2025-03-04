@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ## @isradev - Video creado en mi canal de Youtube https://youtube.com/@isradev
 
+=======
+## @isra_developer -
+>>>>>>> 18b0377552954f5aac09eeb0a0d65d7c31e0c8e7
 ¡Bienvenido al curso definitivo donde aprenderás a crear un clon de Netflix desde cero! Usaremos las últimas tecnologías del ecosistema JavaScript, incluyendo ReactJS, Next.js 14 y TypeScript para la creación de una aplicación web moderna, combinados con Prisma para la gestión de bases de datos y NextAuth para la autenticación segura de usuarios. Además, diseñaremos una interfaz profesional con Tailwind CSS y ShadCN, y finalmente, desplegaremos el proyecto en Vercel de forma gratuita.
 
 -   🌐 Next.js 14 & server actions
